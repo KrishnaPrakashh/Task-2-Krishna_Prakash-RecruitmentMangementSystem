@@ -40,9 +40,8 @@ https://task-2-krishna-prakash.onrender.com/index.html
    # Limitation : 
        Data is reset whenever the server restarts.
 
----
-##Project Structure
-
+## Project Structure
+```text
   Recruitment-Interview-Management-System
   │
   ├── applicant
@@ -72,6 +71,7 @@ https://task-2-krishna-prakash.onrender.com/index.html
   ├── server.js
   ├── package.json
   └── README.md
+```
 
 ## API Endpoints
 
@@ -90,7 +90,7 @@ https://task-2-krishna-prakash.onrender.com/index.html
 
 ## Installation
 
-  ```bash
+ ```bash
   git clone <repo-url>
   
   cd Recruitment-Interview-Management-System
@@ -100,7 +100,24 @@ https://task-2-krishna-prakash.onrender.com/index.html
   node server.js
   
   http://localhost:5000
+```
+## Screenshots
 
-### Screenshots
+### Home Page
+![Home Page](screenshots/home1.png)      ![Home Page](screenshots/home2.png)  
 
+### Job Application Page
+![Job Application Page](screenshots/application.png)
+
+### Candidate Details Page
+![Candidate Details Page](screenshots/candidate_details.png)
+
+### HR - Manage Applications
+![HR - Manage Applications](screenshots/manage_application.png)
+
+### HR - Schedule Interview
+![HR - Schedule Interview](screenshots/interview.png)
+
+### Candidate Status Page
+![Candidate Status Page](screenshots/candidate_status.png)
 
