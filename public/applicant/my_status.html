@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Status</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="../index.html">
+            Recruitment Management System
+        </a>
+    </div>
+    <div class="mb-3">
+    <a href="../index.html" class="btn btn-primary rounded-pill px-4 shadow-sm">
+        ← Home
+    </a>
+</div>
+</nav>
+
+<div class="container mt-5">
+
+    <div class="card shadow p-4">
+
+        <h2>Check Application Status</h2>
+
+        <div class="mb-3">
+
+            <label>Email</label>
+
+            <input
+                type="email"
+                id="email"
+                class="form-control"
+                placeholder="Enter your email"
+            >
+
+        </div>
+
+        <button
+            class="btn btn-primary"
+            onclick="checkStatus()">
+
+            Check Status
+
+        </button>
+
+    </div>
+
+    <div
+        id="result"
+        class="card shadow p-4 mt-4"
+        style="display:none;">
+
+    </div>
+
+</div>
+
+<script src="status.js"></script>
+
+
+</body>
+</html>
