@@ -1,12 +1,12 @@
 # Recruitment & Interview Management System
 
-A full-stack web application to manage the recruitment process. It allows candidates to apply for jobs, track their status and view interview schedules while HR can manage applications , update candidate status and schedule interviews.
-This project demonstrates full-stack web development concepts including frontend development, backend API creation, routing, CRUD operations, and data management using Node.js and Express.js.
----
+A full-stack web application to manage the recruitment process. It allows candidates to apply for jobs, track their status and view interview schedules while HR can manage applications, update candidate status and schedule interviews. This project demonstrates full-stack web development concepts including frontend development, backend API creation, routing, CRUD operations, and data management using Node.js and Express.js.
 
 ### Live Demo
 
 https://task-2-krishna-prakash.onrender.com/index.html
+
+⚠️ Note: Since the project is deployed on a free Render instance, it may sometimes take a few seconds to load or respond due to server sleep (cold start).
 
 ## Features
 
