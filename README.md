@@ -121,3 +121,17 @@ https://task-2-krishna-prakash.onrender.com/index.html
 ### Candidate Status Page
 ![Candidate Status Page](screenshots/candidate_status.png)
 
+
+##  Author
+
+**Krishna Prakash**
+
+---
+
+## 🎓 Internship
+
+DecodeLabs Internship Program
+
+Project 2 – Full Stack Development 
+
+
